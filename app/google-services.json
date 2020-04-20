@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "493663085192",
+    "firebase_url": "https://real-time-tracker-5bdfe.firebaseio.com",
+    "project_id": "real-time-tracker-5bdfe",
+    "storage_bucket": "real-time-tracker-5bdfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493663085192:android:bc4d9b283c132d8c55f53d",
+        "android_client_info": {
+          "package_name": "com.example.realtimetracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493663085192-q05eutcojmn0jo7p84g239bao42e98cs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.realtimetracker",
+            "certificate_hash": "180c441dd67d88e69123993f403eb2c05a991123"
+          }
+        },
+        {
+          "client_id": "493663085192-uk4t5uov41au226ei9dptk74e91mg8p0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn_1fxT_dXqkKj69U_-mvHmd8b6DxnZAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493663085192-uk4t5uov41au226ei9dptk74e91mg8p0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
